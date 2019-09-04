@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+url: "https://jominjeong.github.io"
 title: Type on Strap # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
-  - 
+  -
     scope:
       path: "" # an empty string here means all files in the project
     values:
@@ -64,7 +64,7 @@ theme_settings:
     wordpress:
     email: true
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
@@ -98,7 +98,7 @@ authors:
   mhagnumdw: # author-id
     name: MhagnumDw
     avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-    url: 
+    url:
   sylhare:
     name: Sylhare
     avatar: "assets/img/avatars/sylhare_avatar.png"

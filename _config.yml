@@ -2,7 +2,7 @@
 baseurl: "/Type-on-Strap"
 url: "https://jominjeong.github.io"
 title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "배운거 저장하기" # used by search engines
 
 defaults:
   -

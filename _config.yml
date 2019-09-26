@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: '/'
 url: "https://jominjeong.github.io"
 title: Type on Strap # site's title
 description: "배운거 저장하기" # used by search engines

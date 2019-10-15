@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wordpress Toy Project
-img: "assets/img/portfolio/wordpress(2).jpg" 
+img: "assets/img/portfolio/wordpress(2).PNG" 
 date: 15-10-2019
 tags: [portfolio, wordpress]
 ---

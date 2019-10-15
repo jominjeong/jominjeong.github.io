@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Wordpress Toy Project  
-feature-img: "assets/img/portfolio/wordpress.jpg"
+feature-img: "assets/img/portfolio/wordpress.jpg"{: width="300" height="300"}
 img: "assets/img/portfolio/wordpress.jpg"
 date: Oct, 15 2019
 tags: [portfolio, wordpress]
 ---
 
-![image]({{ page.img | relative_url }}){: width="300" height="300"}
+![image]({{ page.img | relative_url }})
 
 
 Wordpress Toy Project  

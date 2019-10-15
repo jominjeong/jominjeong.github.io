@@ -16,7 +16,6 @@ date: Oct, 15 2019
 tags: [portfolio, wordpress]
 ---
  -->
-![image]({{ page.img | relative_url }})
 
 
 

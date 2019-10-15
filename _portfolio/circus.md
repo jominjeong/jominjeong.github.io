@@ -8,8 +8,7 @@ tags: [Ipsum]
 
 ![image]({{ page.img | relative_url }})
 
-
- Young Stars AD Competition 'Damngoodidea Damngoodtaxi' 
+ Young Stars AD Competition 'Damngoodidea Damngoodtaxi' (09 .2016)
  
  Taxi Airbag X Condom 'Damngoodidea'  
  

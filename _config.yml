@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: '/'
 url: "https://jominjeong.github.io"
-title: Type on Strap # site's title
+title: Portfolio for VMware # site's title
 description: "배운거 저장하기" # used by search engines
 
 defaults:
@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: Github Blog <code></code>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -74,7 +74,7 @@ theme_settings:
   str_rss_follow: "Follow RSS feed"
   str_share_on: "Share on"
   str_add_to: "Add to"
-  str_email: "Email"
+  str_email: "wannabevmware@gmail.com"
   str_tweet: "Tweet"
   str_pin_it: "Pin it"
   str_next_post: "Next post"

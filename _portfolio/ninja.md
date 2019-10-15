@@ -2,12 +2,12 @@
 layout: post
 title: Wordpress Toy Project  
 
-img: "assets/img/portfolio/wordpress.jpg"{: width="300" height="300"}
+img: "assets/img/portfolio/wordpress.jpg"
 date: Oct, 15 2019
 tags: [portfolio, wordpress]
 ---
 
-![image]({{ }})
+![image]({{ page.img | relative_url }})
 
 
 Wordpress Toy Project  
